@@ -1,0 +1,13 @@
+#banner {
+	color:white;
+	height: 70vh;
+	background-image: url("../images/couverture_lewagon.jpg");
+	background-size: cover;
+	background-position: bottom;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-shadow: 1px 1px 1px blue;
+	margin:0;
+}
